@@ -1,0 +1,27 @@
+{
+    "chromeWebSecurity": false,
+    "env": {
+        "bookNow": ".page-body > :nth-child(1) > .lh-nav--right > .lh-nav--cta > .d-none",
+        "passcode": ".input-note > span",
+        "addressInput": "#addressSearch",
+        "nextButton": ".booking-summary--header > .button",
+        "washOption": ":nth-child(1) > :nth-child(1) > .service-wrapper > .d-none > :nth-child(3) > .servcice-main-button > span",
+        "washModel": ".laundry-service-options > :nth-child(2)",
+        "addService": ".modal--footer > .button",
+        "fistNameInput": "#firstName",
+        "lastNameInput": "#lastName",
+        "phoneCode": "#phoneCode",
+        "phoneNumber": "#phoneBody",
+        "countryNumber": "Bosnia and Herzegovina +387",
+        "emailAddress": "#email",
+        "cardNumber": "#card-number > .__PrivateStripeElement > iframe",
+        "cardExpiry": "#card-expiry > .__PrivateStripeElement > iframe",
+        "cardCVC": "#card-cvc > .__PrivateStripeElement > iframe",
+        "fistElement": ".autocomplete-results > .active",
+        "clearData": ".clear-order-button > .clickable",
+        "confirm": ".d-grid > .button-primary",
+        "placeOrder": ".booking-summary--header > .button",
+        "orderId": ".d-md-inline-block > .top-section > .mb-16 > span",
+        "pressX": ".modal--head > .clickable"
+    }
+}
